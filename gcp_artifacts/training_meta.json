@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-10-08T06-28-20",
+  "framework": "xgboost",
+  "xgboost_version": "3.0.5",
+  "n_features": 13
+}
